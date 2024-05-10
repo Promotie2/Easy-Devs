@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["LISTENING TO DISCORD DEVS","LOOKS AT 24/7 UPTIME"];
+const statusMessages = ["LISTENING TO DISCORD DEVS","LOOKS AT 24/7 UPTIME","WATCHING {bot_serverCount} SERVERS"];
 
 
 let currentIndex = 0;
